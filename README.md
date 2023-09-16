@@ -4,7 +4,7 @@
 
 ## Activities
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cand1z&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cand1z&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## Talk with me!
 
