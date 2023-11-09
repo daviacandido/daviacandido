@@ -4,7 +4,7 @@
 
 ## Activities
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cand1z&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j&mode=daily&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daviacandido&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j&mode=daily&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Talk with me!
 
