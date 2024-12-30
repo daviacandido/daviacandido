@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### A software engineering student currently assigned to the SRE area.
+#### A DevSecOps student currently assigned to the SRE area.
 
 ## Activities
 
